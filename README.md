@@ -1,3 +1,3 @@
 # Olá, Mundo!
  Git e GitHub
-Edicionei tiretamento do site
+Eu adicionei diretamento do site
